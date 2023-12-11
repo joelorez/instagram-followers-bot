@@ -19,7 +19,7 @@ def printUsage():
 	print("+ python main.py -u USERNAME -p PASSWORD -o follow-list -t USER_LIST: Follow users from a file")
 	print("+ python main.py -u USERNAME -p PASSWORD -o super-followback: Follow back all the users who you dont follow back")
 	print("+ python main.py -u USERNAME -p PASSWORD -o super-unfollow: Unfollow all the users who dont follow you back")
-	print("+ python main.py -u USERNAME -p PASSWORD -o unfollow-all: Unfollow all the users")
+	print("+ python main.py -u memimok -p Lilutsiaxasine0$ -o unfollow-all: Unfollow all the users")
 
 
 def info():
